@@ -1,4 +1,9 @@
 #ISIS1225 - Estructura de un proyecto
+Miembros del grupo:
+Sofia Torres Ramìrez
+Ana Margarita Florez
+
+
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
