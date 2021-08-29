@@ -1,7 +1,11 @@
 #ISIS1225 - Estructura de un proyecto
 Miembros del grupo:
 Sofia Torres Ramìrez
+202014872
+s.torres21
 Ana Margarita Florez
+201922242
+a.florezr
 
 
 
